@@ -1,6 +1,6 @@
 # https://en.m.wikipedia.org/wiki/Electric_power
 from __future__ import annotations
-
+# Добавил комментраий
 from collections import namedtuple
 
 
